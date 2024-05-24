@@ -1,0 +1,22 @@
+h1 {
+    font-size: 70px;
+    font-style: oblique;
+    background-color: antiquewhite;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+ hr {
+    border: none;
+    border-top: 10px solid black;
+ }
+ #p1 {
+    font-size: 15px;
+    font-style: italic;
+    background-color: antiquewhite;
+ }
+ h2 {
+    margin-bottom: -5px;
+ }
+ body { 
+    border: 10px solid black;
+ }    
